@@ -1,6 +1,6 @@
 ### Hi! I'm Fedir Gontsa.
 
-I'm Cartography Designer and Independent MapMaker. You can see examples of my work in the portfolio on [Behance](https://www.behance.net/gontsa) or my personal site [Fedir Gontsa](http://fedir.gontsa.com). I use in my projects only open source tools.
+I'm Cartography Designer and Independent MapMaker. You can see examples of my work in the portfolio on [Behance](https://www.behance.net/gontsa) or [my personal site](http://fedir.gontsa.com). I use in my projects only open source tools.
 
 Very active [OpenStreetMap volunteer](https://wiki.openstreetmap.org/wiki/User:Gontsa). Member of Ukraine OpenStreetMap community.
 
