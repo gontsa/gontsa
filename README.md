@@ -14,4 +14,4 @@ If you’re interested in my projects & experiments, please feel free to contact
 
 Follow me on [Twitter](https://twitter.com/gontsa), [Instagram](https://www.instagram.com/gontsa/) or [Behance](https://www.behance.net/gontsa).
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="gontsa" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+[BuyMeCoffee](https://www.buymeacoffee.com/gontsa)
