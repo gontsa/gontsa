@@ -14,4 +14,4 @@ If you’re interested in my projects & experiments, please feel free to contact
 
 Follow me on [Twitter](https://twitter.com/gontsa), [Instagram](https://www.instagram.com/gontsa/) or [Behance](https://www.behance.net/gontsa).
 
-[BuyMeCoffee](https://www.buymeacoffee.com/gontsa)
+Or [BuyMeCoffee](https://www.buymeacoffee.com/gontsa) and Support Ukraine!
